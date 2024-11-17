@@ -113,7 +113,8 @@ header{
         display: block;
         height: auto;
         width: 100%;
-        position: static;
+        position: absolute;
+        right: 0px;
         padding: 40px;
     }
 
